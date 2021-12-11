@@ -45,5 +45,5 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenesern&show_icons=true&locale=en&layout=compact" width="360px"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenesern&show_icons=true&locale=en" width="360px" /></p><br />
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenesern&theme=tokyonight)
+       <p><img> src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenesern&theme=tokyonight"</img></p>
 <br />
