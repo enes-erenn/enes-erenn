@@ -8,25 +8,22 @@
 
 ----
 
+<div align="center"> 
+         <p> Did you like what I do? Maybe you can buy me a coffee.</p>
+         <a>href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://www.buymeacoffee.com/eneseren" alt="Buy Me A Coffee" width="150" ></a>
+</div>
+
 <div align="center">
 <h4 align="center">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/enes-eren-11108b1a6/">
-         <img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"> 
+         <img alt="linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"> 
 </a>
-<a href="https://www.instagram.com/thenesern/">
-         <img alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" > 
-</a>
-<a href="mailto:thenesern@gmail.com">
-         <img alt="email" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="22px" > 
-</div>
 
 <h4 align="center">Languages and Tools:</h4>
  <p align="center">
          <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
          <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-         <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
          <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-         <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
          <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </p>
          <p align="center">
