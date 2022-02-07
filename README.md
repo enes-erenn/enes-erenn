@@ -1,16 +1,22 @@
+
 ----
 
-<h1 align="center">Hi there 👋 I'm Enes</h1>
+<h1 align="center">Hi there 👋</h1>
 
-<h3 align="center" >I'm a Front-end Web Developer. <br> <br>
-         I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
-</h3>
+<h3 align="left" >I'm a Junior Front End Web Developer. </h3>
+<p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
+</p>
+<p>
+I am currently learning React and Chrome Extensions and developing demo apps about that. <br> <br>
+Some languages and technologies that I think to learn this year are: <br>
+React, Chrome Extensions, TypeScript.
+</p>
 
 ----
 
 <div align="center"> 
          <p> Did you like what I do? Maybe you can buy me a coffee.</p>
-         <a>href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://www.buymeacoffee.com/eneseren" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/eneseren" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
 <div align="center">
