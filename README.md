@@ -8,8 +8,8 @@
 </p>
 <p>
 I am currently learning React and Chrome Extensions and developing demo apps about that. <br> <br>
-Some languages and technologies that I think to learn this year are: <br>
-React, Chrome Extensions, TypeScript.
+Some languages and technologies that I think to learn in this year are: <br>
+Next.js, TypeScript, Node.js, MongoDB, 
 </p>
 
 ----
