@@ -8,7 +8,7 @@
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
-I've been learning coding about 6-9 month. I think that i have learned the general topics about Front-end Development and now I've started to learn Back-End Development.
+I've been learning coding about 6-9 month. I think that i have enough kndowledge about Front-end Development and now I've started to learn Back-End Development.
  <br> <br>
 Some languages and technologies that I think to learn in this year are: <br>
 TypeScript, Node.js, Express.js, MongoDB, 
