@@ -18,7 +18,7 @@ TypeScript, Node.js, Express.js, MongoDB,
 
 <div align="center"> 
          <p> Did you like what I do? Maybe you can buy me a coffee.</p>
-<a href="https://www.buymeacoffee.com/eneseren" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/eneseren" target="_blank"><img src="https://uc4fbbce2f9f60ea7716f1b72393.previews.dropboxusercontent.com/p/thumb/ABd8pfPjz_stg_SYZndF4U8YzKUh6M-nam3T20pkP1-2s75U_3_w6Z5Fd-eZVI6TpaKM2YMgyqbASlXdJewl_clJ4aU2y-SqZ_J6PYNeDIirKCYj_JaOhA-cE4t4Mj7QZTdh01YvxR2iVy6Uaq8hbp6kcgcEKx5Hy-2KRVK5EbxF7Mi4Q3pEJitbyVgW5tNzEZULnuiAJ4dGcFNw7Z4VSuUrIGGJkAY3Nra-XK3ET4KXCRXTQQT9aiFqBF_4Wx0cWQ8ch4moSZs3EBrBQ_ZW8Rvr4uFMs5RKbwDF8G-ACwsWlNwM8q0Zu3P6k2TcRh3G2aRBCwjkeIzzbzdsufytBbFGEfh7MMAQOlfXq4J_SqG_ksjpyorYemWGiOohEWZblKs/p.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
 <div align="center">
