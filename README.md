@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="left" >I'm a Junior Full Stack Web Developer. </h3>
+<h3 align="left" >I'm a Full Stack Web Developer. </h3>
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
-I've been learning coding about 6-9 month. I think that i have enough knowledge about Front-end Development and now I've started to learn Back-End Development.
+I've been learning coding about 6-9 month.
  <br> <br>
 Some languages and technologies that I think to learn in this year are: <br>
 TypeScript, Node.js, Express.js, MongoDB, 
@@ -18,7 +18,7 @@ TypeScript, Node.js, Express.js, MongoDB,
 
 <div align="center"> 
          <p> Did you like what I do? Maybe you can buy me a coffee.</p>
-<a href="https://www.buymeacoffee.com/eneseren" target="_blank"><img src="https://uc4e958865d0e59b9fed713f70d3.previews.dropboxusercontent.com/p/thumb/ABf2be9Bsigptx8EithJDty_7MiJ25vhN3UXI-Ct85YKtni5eAuTmFic7cSXGsZrN-OFugvPwGsB5KLr7NAhMJXAwcp6I7av1CTryGHOJjPClrsqV17jQUDWC7Oj1d5wvg0ULLxNVNsrDtOUdKa9jXL4aEAgwDtqXuluceY1jkhfuf9OIIYsRnRRFTrJ4bjgFCiEu5S7RpFdoe_OARSS211ZOjL8m-rDJs9LdEgnaM7MCoSf9qpTUIGCHsmVf-liaNWf0hUgFhuD2WcLHiD2dbFju99qxO9zUmXwsC_lnFz3dYwy-1HOlcCI7TQHBUdDaAivdbHHbQKezDOZbWAlppSyvQJw8cD49LpG1kme2VlTf55YdHGC7nF8azkC_9SabnM/p.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/eneseren" target="_blank"><img src="https://raw.githubusercontent.com/thenesern/images/main/buy-me-a-coffee.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
 
 <div align="center">
