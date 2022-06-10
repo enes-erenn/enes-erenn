@@ -11,7 +11,7 @@
 I've been learning coding about 6-9 month.
  <br> <br>
 Some languages and technologies that I think to learn in this year are: <br>
-TypeScript, Node.js, Express.js, MongoDB, 
+Tailwind, GraphQL, TypeScript and Node.js
 </p>
 
 ----
