@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="left" >I'm a Full Stack Web Developer. </h3>
+<h3 align="left" >I'm a Frontend Web Developer. </h3>
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
 I've been learning coding about 1 year.
  <br> <br>
-Some languages and technologies that I think to learn in this year are: <br>
-Tailwind, GraphQL, TypeScript and Node.js
+Some technologies that I think to learn in this year are: <br>
+Tailwind, GraphQL and Vue.js.
 </p>
 
 ----
