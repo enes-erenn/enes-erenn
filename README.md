@@ -53,6 +53,6 @@ Tailwind, GraphQL and Vue.js.
 
  <h2 align="center">Stats:</h2>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenesern&show_icons=true&locale=en&layout=compact" width="360px"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenesern&show_icons=true&locale=en" width="360px" /></p><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enes-erenn&show_icons=true&locale=en&layout=compact" width="360px"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=enes-erenn&show_icons=true&locale=en" width="360px" /></p><br />
 <br />
