@@ -8,10 +8,8 @@
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
-I've been learning coding about 1-2 years.
- <br> <br>
 Some technologies that I think to learn in this year are: <br>
-Tailwind, GraphQL and Vue.js.
+Typescript and Vue.js.
 </p>
 
 ----
