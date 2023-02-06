@@ -8,8 +8,8 @@
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
-Some technologies that I think to learn in this year are: <br>
-Typescript and Vue.js.
+Some concepts that I think to improve myself in this year are: <br>
+Python, Python Packages related with Data Science, Statistics.
 </p>
 
 ----
