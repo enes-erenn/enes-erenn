@@ -21,8 +21,8 @@ Typescript and Vue.js.
 
 <div align="center">
          <h4 align="center">Blog</h4>
-<a href="[https://www.linkedin.com/in/enes-eren-11108b1a6/](https://enes-eren.medium.com/)">
-         <img alt="linkedin" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://raw.githubusercontent.com/enes-erenn/images/main/md.png)" width="22px"> 
+<a href="https://enes-eren.medium.com/">
+         <img alt="linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://raw.githubusercontent.com/enes-erenn/images/main/md.png" width="22px"> 
 </a>
 <h4 align="center">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/enes-eren-11108b1a6/">
