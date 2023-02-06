@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="left" >I'm a Frontend Web Developer. </h3>
+<h3 align="left" >I'm a Data Scientist and Frontend Web Developer. </h3>
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
@@ -20,6 +20,10 @@ Typescript and Vue.js.
 </div>
 
 <div align="center">
+         <h4 align="center">Blog</h4>
+<a href="[https://www.linkedin.com/in/enes-eren-11108b1a6/](https://enes-eren.medium.com/)">
+         <img alt="linkedin" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://raw.githubusercontent.com/enes-erenn/images/main/md.png)" width="22px"> 
+</a>
 <h4 align="center">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/enes-eren-11108b1a6/">
          <img alt="linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"> 
