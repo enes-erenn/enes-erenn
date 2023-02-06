@@ -2,9 +2,8 @@
 
 ----
 
-<h1 align="center">Hi there 👋</h1>
-
 <h3 align="left" >I'm a Data Scientist, Web Developer and Economics Student. </h3>
+
 <p>I'm always seeking to integrate new technologies into my life. Education and personal development have always been an important part of my life. I'm the person who finds quick solutions without delaying the problems that occur during work and my life.
 </p>
 <p>
